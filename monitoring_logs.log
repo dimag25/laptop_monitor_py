@@ -1,0 +1,143 @@
+17:05:55,553 __main__ INFO {'timestamp': '2024-03-25 15:05:55.553225', 'total_cpu': 30.8, 'total_memory': 93.7, 'disk_percent': 41.2, 'network_bytes_sent': 430544202, 'network_bytes_recv': 3513796402}
+17:05:56,203 opensearch INFO POST http://localhost:9200/laptop_performance/_doc [status:201 request:0.649s]
+17:06:04,823 __main__ INFO psutil.Process(pid=13084, name='chrome.exe', status='running', started='08:55:07')
+17:06:04,885 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.044s]
+17:06:04,885 __main__ INFO {'timestamp': '2024-03-25 15:06:04.841407', 'service_name': 'chrome.exe', 'cpu_percent': 2.8, 'memory_percent': 1.9044719144626825, 'memory_usage_mb': 152.9453125}
+17:06:05,17 __main__ INFO psutil.Process(pid=19472, name='chrome.exe', status='running', started='08:57:03')
+17:06:05,46 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.020s]
+17:06:05,46 __main__ INFO {'timestamp': '2024-03-25 15:06:05.027005', 'service_name': 'chrome.exe', 'cpu_percent': 0.1, 'memory_percent': 0.5229345035600015, 'memory_usage_mb': 41.99609375}
+17:06:05,47 __main__ INFO psutil.Process(pid=19984, name='chrome.exe', status='running', started='08:55:08')
+17:06:05,77 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.016s]
+17:06:05,77 __main__ INFO {'timestamp': '2024-03-25 15:06:05.061241', 'service_name': 'chrome.exe', 'cpu_percent': 0.3, 'memory_percent': 0.4976414199537137, 'memory_usage_mb': 39.96484375}
+17:06:05,232 __main__ INFO psutil.Process(pid=123156, name='chrome.exe', status='running', started='16:35:33')
+17:06:05,256 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.014s]
+17:06:05,256 __main__ INFO {'timestamp': '2024-03-25 15:06:05.241268', 'service_name': 'chrome.exe', 'cpu_percent': 0.1, 'memory_percent': 0.7703689579930522, 'memory_usage_mb': 61.8671875}
+17:06:05,257 __main__ INFO psutil.Process(pid=133276, name='chrome.exe', status='running', started='17:03:14')
+17:06:05,276 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.009s]
+17:06:05,276 __main__ INFO {'timestamp': '2024-03-25 15:06:05.267177', 'service_name': 'chrome.exe', 'cpu_percent': 0.3, 'memory_percent': 1.1364377026486723, 'memory_usage_mb': 91.265625}
+17:06:06,330 __main__ INFO {'timestamp': '2024-03-25 15:06:06.330084', 'total_cpu': 33.3, 'total_memory': 93.9, 'disk_percent': 41.2, 'network_bytes_sent': 430556320, 'network_bytes_recv': 3513814224}
+17:06:06,346 opensearch INFO POST http://localhost:9200/laptop_performance/_doc [status:201 request:0.016s]
+17:06:14,419 __main__ INFO psutil.Process(pid=13084, name='chrome.exe', status='running', started='08:55:07')
+17:06:14,446 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.016s]
+17:06:14,447 __main__ INFO {'timestamp': '2024-03-25 15:06:14.430562', 'service_name': 'chrome.exe', 'cpu_percent': 1.5, 'memory_percent': 1.9122057611807588, 'memory_usage_mb': 153.56640625}
+17:06:14,568 __main__ INFO psutil.Process(pid=19472, name='chrome.exe', status='running', started='08:57:03')
+17:06:14,608 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.019s]
+17:06:14,608 __main__ INFO {'timestamp': '2024-03-25 15:06:14.588361', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 0.5232749873777784, 'memory_usage_mb': 42.0234375}
+17:06:14,609 __main__ INFO psutil.Process(pid=19980, name='chrome.exe', status='running', started='08:55:08')
+17:06:14,635 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.009s]
+17:06:14,636 __main__ INFO {'timestamp': '2024-03-25 15:06:14.626040', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 0.6990132778960825, 'memory_usage_mb': 56.13671875}
+17:06:14,636 __main__ INFO psutil.Process(pid=19984, name='chrome.exe', status='running', started='08:55:08')
+17:06:14,659 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.012s]
+17:06:14,659 __main__ INFO {'timestamp': '2024-03-25 15:06:14.647570', 'service_name': 'chrome.exe', 'cpu_percent': 1.0, 'memory_percent': 0.4953553143200684, 'memory_usage_mb': 39.78125}
+17:06:14,700 __main__ INFO psutil.Process(pid=57864, name='chrome.exe', status='running', started='16:35:49')
+17:06:14,717 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.009s]
+17:06:14,717 __main__ INFO {'timestamp': '2024-03-25 15:06:14.708657', 'service_name': 'chrome.exe', 'cpu_percent': 0.3, 'memory_percent': 0.2616374936888892, 'memory_usage_mb': 21.01171875}
+17:06:14,812 __main__ INFO psutil.Process(pid=123672, name='chrome.exe', status='running', started='16:35:32')
+17:06:14,836 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.016s]
+17:06:14,837 __main__ INFO {'timestamp': '2024-03-25 15:06:14.820373', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 1.0239807616914847, 'memory_usage_mb': 82.234375}
+17:06:14,839 __main__ INFO psutil.Process(pid=131152, name='chrome.exe', status='running', started='17:03:11')
+17:06:14,856 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.007s]
+17:06:14,856 __main__ INFO {'timestamp': '2024-03-25 15:06:14.849220', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 1.833553999274283, 'memory_usage_mb': 147.25}
+17:06:14,857 __main__ INFO psutil.Process(pid=133276, name='chrome.exe', status='running', started='17:03:14')
+17:06:14,876 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.009s]
+17:06:14,876 __main__ INFO {'timestamp': '2024-03-25 15:06:14.866066', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 1.1387238082823175, 'memory_usage_mb': 91.44921875}
+17:06:15,933 __main__ INFO {'timestamp': '2024-03-25 15:06:15.933050', 'total_cpu': 43.7, 'total_memory': 94.1, 'disk_percent': 41.2, 'network_bytes_sent': 430569495, 'network_bytes_recv': 3513836285}
+17:06:15,946 opensearch INFO POST http://localhost:9200/laptop_performance/_doc [status:201 request:0.013s]
+17:06:24,418 __main__ INFO psutil.Process(pid=13084, name='chrome.exe', status='running', started='08:55:07')
+17:06:24,443 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.014s]
+17:06:24,443 __main__ INFO {'timestamp': '2024-03-25 15:06:24.429291', 'service_name': 'chrome.exe', 'cpu_percent': 3.6, 'memory_percent': 1.9079253931858486, 'memory_usage_mb': 153.22265625}
+17:06:24,580 __main__ INFO psutil.Process(pid=19472, name='chrome.exe', status='running', started='08:57:03')
+17:06:24,655 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.055s]
+17:06:24,655 __main__ INFO {'timestamp': '2024-03-25 15:06:24.599738', 'service_name': 'chrome.exe', 'cpu_percent': 0.3, 'memory_percent': 0.5235181901047621, 'memory_usage_mb': 42.04296875}
+17:06:24,656 __main__ INFO psutil.Process(pid=19984, name='chrome.exe', status='running', started='08:55:08')
+17:06:24,679 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.011s]
+17:06:24,680 __main__ INFO {'timestamp': '2024-03-25 15:06:24.667571', 'service_name': 'chrome.exe', 'cpu_percent': 0.5, 'memory_percent': 0.4961822035918125, 'memory_usage_mb': 39.84765625}
+17:06:24,887 __main__ INFO psutil.Process(pid=122644, name='chrome.exe', status='running', started='16:15:40')
+17:06:24,914 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.014s]
+17:06:24,914 __main__ INFO {'timestamp': '2024-03-25 15:06:24.900575', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 0.32550252979476607, 'memory_usage_mb': 26.140625}
+17:06:24,914 __main__ INFO psutil.Process(pid=123156, name='chrome.exe', status='running', started='16:35:33')
+17:06:24,940 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.010s]
+17:06:24,940 __main__ INFO {'timestamp': '2024-03-25 15:06:24.929957', 'service_name': 'chrome.exe', 'cpu_percent': 0.5, 'memory_percent': 0.7758166990774834, 'memory_usage_mb': 62.3046875}
+17:06:24,942 __main__ INFO psutil.Process(pid=131152, name='chrome.exe', status='running', started='17:03:11')
+17:06:24,965 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.009s]
+17:06:24,966 __main__ INFO {'timestamp': '2024-03-25 15:06:24.955869', 'service_name': 'chrome.exe', 'cpu_percent': 0.5, 'memory_percent': 1.8126385647536987, 'memory_usage_mb': 145.5703125}
+17:06:24,966 __main__ INFO psutil.Process(pid=133276, name='chrome.exe', status='running', started='17:03:14')
+17:06:24,986 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.007s]
+17:06:24,987 __main__ INFO {'timestamp': '2024-03-25 15:06:24.978920', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 1.1396966191902516, 'memory_usage_mb': 91.52734375}
+17:06:26,40 __main__ INFO {'timestamp': '2024-03-25 15:06:26.040777', 'total_cpu': 33.8, 'total_memory': 94.2, 'disk_percent': 41.2, 'network_bytes_sent': 430578791, 'network_bytes_recv': 3513840978}
+17:06:26,54 opensearch INFO POST http://localhost:9200/laptop_performance/_doc [status:201 request:0.013s]
+17:06:34,429 __main__ INFO psutil.Process(pid=13084, name='chrome.exe', status='running', started='08:55:07')
+17:06:34,461 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.020s]
+17:06:34,461 __main__ INFO {'timestamp': '2024-03-25 15:06:34.440440', 'service_name': 'chrome.exe', 'cpu_percent': 1.7, 'memory_percent': 1.910016936637907, 'memory_usage_mb': 153.390625}
+17:06:34,560 __main__ INFO psutil.Process(pid=19472, name='chrome.exe', status='running', started='08:57:03')
+17:06:34,592 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.020s]
+17:06:34,592 __main__ INFO {'timestamp': '2024-03-25 15:06:34.572650', 'service_name': 'chrome.exe', 'cpu_percent': 0.5, 'memory_percent': 0.5237127522863488, 'memory_usage_mb': 42.05859375}
+17:06:34,593 __main__ INFO psutil.Process(pid=19984, name='chrome.exe', status='running', started='08:55:08')
+17:06:34,631 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.024s]
+17:06:34,631 __main__ INFO {'timestamp': '2024-03-25 15:06:34.607646', 'service_name': 'chrome.exe', 'cpu_percent': 0.5, 'memory_percent': 0.49462570613911777, 'memory_usage_mb': 39.72265625}
+17:06:34,794 __main__ INFO psutil.Process(pid=131152, name='chrome.exe', status='running', started='17:03:11')
+17:06:34,826 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.017s]
+17:06:34,826 __main__ INFO {'timestamp': '2024-03-25 15:06:34.808947', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 1.5739107679466589, 'memory_usage_mb': 126.3984375}
+17:06:34,826 __main__ INFO psutil.Process(pid=133276, name='chrome.exe', status='running', started='17:03:14')
+17:06:34,848 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.011s]
+17:06:34,848 __main__ INFO {'timestamp': '2024-03-25 15:06:34.835913', 'service_name': 'chrome.exe', 'cpu_percent': 1.0, 'memory_percent': 0.8202255170246774, 'memory_usage_mb': 65.87109375}
+17:06:35,915 __main__ INFO {'timestamp': '2024-03-25 15:06:35.915055', 'total_cpu': 22.9, 'total_memory': 94.4, 'disk_percent': 41.2, 'network_bytes_sent': 430597003, 'network_bytes_recv': 3513859240}
+17:06:35,928 opensearch INFO POST http://localhost:9200/laptop_performance/_doc [status:201 request:0.013s]
+17:06:44,371 __main__ INFO psutil.Process(pid=13084, name='chrome.exe', status='running', started='08:55:07')
+17:06:44,392 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.010s]
+17:06:44,392 __main__ INFO {'timestamp': '2024-03-25 15:06:44.382202', 'service_name': 'chrome.exe', 'cpu_percent': 2.7, 'memory_percent': 1.905201522643633, 'memory_usage_mb': 153.00390625}
+17:06:44,518 __main__ INFO psutil.Process(pid=19472, name='chrome.exe', status='running', started='08:57:03')
+17:06:44,541 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.013s]
+17:06:44,541 __main__ INFO {'timestamp': '2024-03-25 15:06:44.528734', 'service_name': 'chrome.exe', 'cpu_percent': 0.3, 'memory_percent': 0.5239073144679357, 'memory_usage_mb': 42.07421875}
+17:06:44,542 __main__ INFO psutil.Process(pid=19984, name='chrome.exe', status='running', started='08:55:08')
+17:06:44,563 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.010s]
+17:06:44,563 __main__ INFO {'timestamp': '2024-03-25 15:06:44.553733', 'service_name': 'chrome.exe', 'cpu_percent': 0.3, 'memory_percent': 0.4990033552248215, 'memory_usage_mb': 40.07421875}
+17:06:44,792 __main__ INFO psutil.Process(pid=123156, name='chrome.exe', status='running', started='16:35:33')
+17:06:44,833 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.011s]
+17:06:44,834 __main__ INFO {'timestamp': '2024-03-25 15:06:44.822601', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 0.7773245559847813, 'memory_usage_mb': 62.42578125}
+17:06:44,836 __main__ INFO psutil.Process(pid=131152, name='chrome.exe', status='running', started='17:03:11')
+17:06:44,871 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.013s]
+17:06:44,871 __main__ INFO {'timestamp': '2024-03-25 15:06:44.858340', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 1.595507170102797, 'memory_usage_mb': 128.1328125}
+17:06:44,871 __main__ INFO psutil.Process(pid=133276, name='chrome.exe', status='running', started='17:03:14')
+17:06:44,895 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.011s]
+17:06:44,895 __main__ INFO {'timestamp': '2024-03-25 15:06:44.885049', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 0.8233385119300666, 'memory_usage_mb': 66.12109375}
+17:06:45,957 __main__ INFO {'timestamp': '2024-03-25 15:06:45.957178', 'total_cpu': 25.0, 'total_memory': 94.9, 'disk_percent': 41.2, 'network_bytes_sent': 430632982, 'network_bytes_recv': 3513890337}
+17:06:45,971 opensearch INFO POST http://localhost:9200/laptop_performance/_doc [status:201 request:0.014s]
+17:06:57,388 __main__ INFO psutil.Process(pid=13084, name='chrome.exe', status='running', started='08:55:07')
+17:06:57,414 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.015s]
+17:06:57,414 __main__ INFO {'timestamp': '2024-03-25 15:06:57.399716', 'service_name': 'chrome.exe', 'cpu_percent': 4.3, 'memory_percent': 2.0310832541303117, 'memory_usage_mb': 163.11328125}
+17:06:57,538 __main__ INFO psutil.Process(pid=19472, name='chrome.exe', status='running', started='08:57:03')
+17:06:57,558 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.011s]
+17:06:57,558 __main__ INFO {'timestamp': '2024-03-25 15:06:57.546768', 'service_name': 'chrome.exe', 'cpu_percent': 0.1, 'memory_percent': 0.5256097335568205, 'memory_usage_mb': 42.2109375}
+17:06:57,560 __main__ INFO psutil.Process(pid=19980, name='chrome.exe', status='running', started='08:55:08')
+17:06:57,582 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.011s]
+17:06:57,582 __main__ INFO {'timestamp': '2024-03-25 15:06:57.571221', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 0.7344235949448854, 'memory_usage_mb': 58.98046875}
+17:06:57,582 __main__ INFO psutil.Process(pid=19984, name='chrome.exe', status='running', started='08:55:08')
+17:06:57,611 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.013s]
+17:06:57,611 __main__ INFO {'timestamp': '2024-03-25 15:06:57.597659', 'service_name': 'chrome.exe', 'cpu_percent': 0.5, 'memory_percent': 0.4938474574127705, 'memory_usage_mb': 39.66015625}
+17:06:57,611 __main__ INFO psutil.Process(pid=20020, name='chrome.exe', status='running', started='08:55:08')
+17:06:57,636 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.012s]
+17:06:57,636 __main__ INFO {'timestamp': '2024-03-25 15:06:57.624289', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 0.10199922369689546, 'memory_usage_mb': 8.19140625}
+17:06:57,687 __main__ INFO psutil.Process(pid=26364, name='chrome.exe', status='running', started='09:59:56')
+17:06:57,715 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.014s]
+17:06:57,716 __main__ INFO {'timestamp': '2024-03-25 15:06:57.701294', 'service_name': 'chrome.exe', 'cpu_percent': 5.0, 'memory_percent': 1.075101974903424, 'memory_usage_mb': 86.33984375}
+17:06:57,868 __main__ INFO psutil.Process(pid=123156, name='chrome.exe', status='running', started='16:35:33')
+17:06:57,898 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.021s]
+17:06:57,899 __main__ INFO {'timestamp': '2024-03-25 15:06:57.876773', 'service_name': 'chrome.exe', 'cpu_percent': 0.2, 'memory_percent': 0.7788324128920793, 'memory_usage_mb': 62.546875}
+17:06:57,900 __main__ INFO psutil.Process(pid=131152, name='chrome.exe', status='running', started='17:03:11')
+17:06:57,926 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.011s]
+17:06:57,926 __main__ INFO {'timestamp': '2024-03-25 15:06:57.915794', 'service_name': 'chrome.exe', 'cpu_percent': 0.1, 'memory_percent': 1.5964313404653343, 'memory_usage_mb': 128.20703125}
+17:06:57,927 __main__ INFO psutil.Process(pid=133276, name='chrome.exe', status='running', started='17:03:14')
+17:06:57,955 opensearch INFO POST http://localhost:9200/chrome.exe/_doc [status:201 request:0.012s]
+17:06:57,955 __main__ INFO {'timestamp': '2024-03-25 15:06:57.943182', 'service_name': 'chrome.exe', 'cpu_percent': 0.1, 'memory_percent': 0.8247490877465711, 'memory_usage_mb': 66.234375}
+17:06:59,46 __main__ INFO {'timestamp': '2024-03-25 15:06:59.046828', 'total_cpu': 73.6, 'total_memory': 94.0, 'disk_percent': 41.2, 'network_bytes_sent': 430734725, 'network_bytes_recv': 3516966190}
+17:06:59,59 opensearch INFO POST http://localhost:9200/laptop_performance/_doc [status:201 request:0.012s]
+17:07:46,632 opensearch INFO POST http://localhost:9200/laptop_performance/_search [status:200 request:1.177s]
+17:07:47,510 opensearch INFO POST http://localhost:9200/chrome.exe/_search [status:200 request:0.874s]
+17:07:47,532 opensearch INFO POST http://localhost:9200/python.exe/_search [status:200 request:0.018s]
+17:09:47,339 opensearch INFO POST http://localhost:9200/laptop_performance/_search [status:200 request:0.024s]
+17:09:47,348 opensearch INFO POST http://localhost:9200/chrome.exe/_search [status:200 request:0.008s]
+17:09:47,356 opensearch INFO POST http://localhost:9200/python.exe/_search [status:200 request:0.007s]
+17:10:21,777 opensearch INFO POST http://localhost:9200/laptop_performance/_search [status:200 request:0.016s]
+17:10:21,784 opensearch INFO POST http://localhost:9200/chrome.exe/_search [status:200 request:0.006s]
+17:10:21,790 opensearch INFO POST http://localhost:9200/python.exe/_search [status:200 request:0.005s]
