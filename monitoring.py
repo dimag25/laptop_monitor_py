@@ -10,7 +10,7 @@ log = logging.getLogger(__name__)
 opensearch = OpenSearch([{'host': 'localhost', 'port': 9200}])
 
 logging.basicConfig(filename=LOG_FILE,
-                    filemode='a',
+                    filemode='w',
                     format='%(asctime)s,%(msecs)d %(name)s %(levelname)s '
                            '%(message)s',
                     datefmt='%H:%M:%S',
