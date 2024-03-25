@@ -4,13 +4,15 @@
 
 ### COLLECTED DATA:
   - Specific Services memory/cpu usage ( `SERVICES` List in `Consts.py` )
-    It is important to limit to specific services measure ,
-    to prevent heavy usage of all running services check, 
-    most important metrics are cpu and memory per service.
+  Example : `SERVICES = ['chrome.exe', 'python.exe']`
+    It is important to limit to specific services measure , 
+    Ive chosen chrome and python services because Im using them a lot.
+    (To prevent heavy usage of all running services check.)
+    I think most important metrics are cpu and memory usage per service, to measure real behaviour of each service and how much the service using cpu/memory of all system.
 
-  - OS System Important Metrics:
-      - CPU usage: Check total cpu usage.
-      - Memory usage: Total memory and memory usage percentage.
+  - OS System Important Metrics to check entire System:
+      - CPU : Check total cpu usage.
+      - Memory : Total ram memory and memory usage percentage.
       - Disk usage: Total disk space and disk usage percentage.
       - Network activity: Bytes sent and received.
 
